@@ -1,0 +1,13 @@
+{
+  "name": "antlr",
+  "version": "0.0.0",
+  "description": "antlr",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "typescript": "^3.8.3"
+  }
+}
