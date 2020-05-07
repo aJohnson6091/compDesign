@@ -1,0 +1,3 @@
+C:\Users\Austin\source\repos\aJohnson6091\tokenize\tokenize\obj\Debug\tokenize.njsprojAssemblyReference.cache
+C:\Users\Austin\source\repos\aJohnson6091\tokenize\tokenize\obj\Debug\tokenize.njsproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\aJohnson6091\tokenize\tokenize\bin\Microsoft.NodejsTools.WebRole.dll
