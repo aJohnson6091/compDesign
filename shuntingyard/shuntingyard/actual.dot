@@ -1,0 +1,3 @@
+digraph d{
+node [fontname="Helvetica",shape=box];
+}
