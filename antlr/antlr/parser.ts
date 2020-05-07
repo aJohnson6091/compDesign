@@ -8,14 +8,14 @@ export function parse(txt: string) {
     let lexer = new Lexer(stream);
     let tokens = new antlr4.CommonTokenStream(lexer);
     let parser = new Parser(tokens);
-    parser.buildParseTrees = true;a
+    parser.buildParseTrees = true;
     //Error fixxing
     let handler = new ErrorHandler();
     lexer.removeErrorListeners();
     lexer.addErrorListener(handler);
     parser.removeErrorListeners()
     parser.addErrorListener(handler);
-    //this assumes your start symbol is 'start'
+
     let antlrroot = parser.program();
     let root: TreeNode = walk(parser, antlrroot);
     return root;
