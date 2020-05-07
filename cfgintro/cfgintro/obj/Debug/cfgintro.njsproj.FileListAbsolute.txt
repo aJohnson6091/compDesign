@@ -1,0 +1,2 @@
+C:\Users\Austin\source\repos\aJohnson6091\cfgintro\cfgintro\obj\Debug\cfgintro.njsproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\aJohnson6091\cfgintro\cfgintro\bin\Microsoft.NodejsTools.WebRole.dll
