@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "asmexpr", "asmexpr\asmexpr.njsproj", "{5EBEA059-3D34-439A-8CA6-5C54A8658A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EBEA059-3D34-439A-8CA6-5C54A8658A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBEA059-3D34-439A-8CA6-5C54A8658A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBEA059-3D34-439A-8CA6-5C54A8658A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBEA059-3D34-439A-8CA6-5C54A8658A96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC1DFB92-EDE1-4E34-BDD5-30E308730F99}
+	EndGlobalSection
+EndGlobal
