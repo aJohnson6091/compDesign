@@ -9,6 +9,7 @@ function parse(txt) {
     let tokens = new antlr4.CommonTokenStream(lexer);
     let parser = new Parser(tokens);
     parser.buildParseTrees = true;
+    a;
     //Error fixxing
     let handler = new ErrorHandler();
     lexer.removeErrorListeners();
