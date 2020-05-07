@@ -8,7 +8,7 @@ export function parse(txt: string) {
     let lexer = new Lexer(stream);
     let tokens = new antlr4.CommonTokenStream(lexer);
     let parser = new Parser(tokens);
-    parser.buildParseTrees = true;a
+    parser.buildParseTrees = true;
     //Error fixxing
     let handler = new ErrorHandler();
     lexer.removeErrorListeners();
